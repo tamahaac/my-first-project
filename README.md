@@ -1,5 +1,5 @@
 # Project Name
-Hello README!
+The best sensation in the world!
 This project is ________. (Describe the main goals of the project. Limit to 1-2 sentences)
 
 ## Description
